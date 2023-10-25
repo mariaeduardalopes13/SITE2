@@ -24,7 +24,7 @@ nav a{
     text-transform: uppercase; /* letras maiúsculs*/
     color: hsl(0, 0%, 100%); /* cor das letras pretas*/
     font-size: 12px; /*tamanho da fonte*/
-    font-weight: 22px; /* fonte negrito*/
+    font-weight: bold; /* fonte negrito*/
     text-decoration: none;/* retirar o sublinhado do texto*/
 }
 img{
