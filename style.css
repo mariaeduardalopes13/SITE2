@@ -27,7 +27,7 @@ nav a{
     font-weight: bold; /* fonte negrito*/
     text-decoration: none;/* retirar o sublinhado do texto*/
 }
-img{
-    width: 30px;
-    height: 50px;
+img {
+    width: 100px;
+    height: 100px;
 }
