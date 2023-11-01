@@ -6,15 +6,16 @@ header{
 .caixa{
     position: relative;/*menu dentro da caixa*/
     width: 940px;/* largura da caixa*/
-    margin: 0 auto;relative
+    margin:  auto;relative
 }
 
 nav{
     position: absolute;
-    top: 110px;
-    right: 0;
-
+    top: 22px;
+    right: 283px;
 }
+
+
 nav li{
     display: inline;
     margin: 0 0 0 15px/*espaçamento interno*/
