@@ -6,7 +6,7 @@ header{
 .caixa{
     position: relative;/*menu dentro da caixa*/
     width: 940px;/* largura da caixa*/
-    margin: 0 auto;
+    margin: 0 auto;relative
 }
 
 nav{
@@ -16,14 +16,14 @@ nav{
 
 }
 nav li{
-    display: none;
-    margin: 0 0 0 15px/*espaçamento externo*/
+    display: inline;
+    margin: 0 0 0 15px/*espaçamento interno*/
 }
 
 nav a{
     text-transform: uppercase; /* letras maiúsculs*/
-  color: black;/* cor das letras pretas*/
-    font-size: 12px; /*tamanho da fonte*/
+    color: black;/* cor das letras pretas*/
+    font-size: 22px; /*tamanho da fonte*/
     font-weight: bold; /* fonte negrito*/
     text-decoration: none;/* retirar o sublinhado do texto*/
 }
