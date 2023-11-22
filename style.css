@@ -6,7 +6,7 @@ header{
 .caixa{
     position: relative;/*menu dentro da caixa*/
     width: 940px;/* largura da caixa*/
-    margin:  auto;relative
+    margin: 0 auto;
 }
 
 nav{
